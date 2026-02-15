@@ -3,7 +3,7 @@
 ## AWS AI for Bharat Hackathon 2026 Submission
 
 Participant: Kaushik Kishor  
-Team Name: BitCoder
+Team Name: BitCoder  
 Generated using: Kiro (Spec → Design flow)
 
 ---
@@ -62,4 +62,5 @@ Unlike existing tools that only explain code, our platform quantifies structural
 - `design.md` — Architecture and technical design  
 
 This submission focuses on specification and architecture (MVP scope).
+
 
